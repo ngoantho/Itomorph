@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/William/Scene/SecretArena.unity
+  isLoaded: 1
+  isActive: 1

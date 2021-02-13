@@ -1,0 +1,1 @@
+To build the executable, open the project in Unity and use the Build function.

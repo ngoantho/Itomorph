@@ -1,1 +1,0 @@
-This executable is for Windows x86 and x64 platforms.
